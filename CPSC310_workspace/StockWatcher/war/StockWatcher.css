@@ -42,7 +42,7 @@ body {
 
 /* Dynamic color changes for the Change field */
 .noChange {
-  color: black;
+  color: blue;
 }
 
 .positiveChange {
